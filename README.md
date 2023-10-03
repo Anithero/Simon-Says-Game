@@ -1,3 +1,5 @@
+TO TRY THE GAME NOW CHECKOUT- https://anithero.github.io/Simon-Says-Game/
+
 Simon Says Game
 ![image](https://github.com/Anithero/Simon-Says-Game/assets/97883650/2059e596-c85b-49a9-acc2-d8eed83df873)
 
