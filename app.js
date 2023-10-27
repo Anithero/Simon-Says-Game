@@ -50,7 +50,7 @@ function checkAns(idx){
     };
    }
    else{
-    h2.innerText=`game over! Your score was ${level}`;
+    h2.innerText=`Game over! Your score was ${level}`;
     document.querySelector("body").style.backgroundColor="red";
     setTimeout(function(){
         document.querySelector("body").style.backgroundColor="white";
@@ -78,4 +78,6 @@ function reset(){
     level=0;
 
 }
+
+
 
